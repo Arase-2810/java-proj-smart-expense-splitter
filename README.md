@@ -2,7 +2,8 @@
 
 A Java application for session-based expense splitting.
 
-#Team Members 
+Team Members 
+
 Sobigasri
 Subiksha
 Tamil Arase 
