@@ -2,6 +2,11 @@
 
 A Java application for session-based expense splitting.
 
+#Team Members 
+Sobigasri
+Subiksha
+Tamil Arase 
+
 ## Features
 
 - Session mode for outings
